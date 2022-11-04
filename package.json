@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "typescript-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "concurrently \"npx tsc -w\" \"nodemon dist/index.js\""
   },
   "keywords": [],
-  "author": "",
+  "author": "joanaa-esteves@hotmail.com",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^7.5.0",
